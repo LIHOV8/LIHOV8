@@ -1,6 +1,6 @@
 {
 
-"apkUrl": "https://t.me/plhinjector/18",
+"apkUrl": "https://t.me/plhinjector/12",
 "versionNotes":"
 • Server & Tweak payload
 • Available Google Playstore soon
